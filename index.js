@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-// Sua URL de conexão exata (lembre-se de não subir esse arquivo pro GitHub depois por causa da senha!)
+
 const uri =
   "mongodb+srv://Ghost:gP3SdESEKVdI2G9u@cluster0.4jfvwr3.mongodb.net/SiteDeRock?appName=Cluster0";
 
